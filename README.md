@@ -1,5 +1,7 @@
 # Shoplify 
 
+[Live-Link](https://shoplify-6376f.web.app/)
+
 ## Features: 
 1. An e-commerce site where you can find the essentials you desire.  
 2. By clicking an individual product you can check the detail of the particular product.
