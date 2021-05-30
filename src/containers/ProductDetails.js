@@ -19,7 +19,7 @@ const ProductDetails = () => {
       });
     dispatch(selectedProduct(response.data));
   };
-
+ 
   useEffect(() => {
     if (productId && productId !== "") fetchProductDetail(productId);
     return () => {
@@ -59,5 +59,5 @@ const ProductDetails = () => {
     </div>
   );
 };
-
+ 
 export default ProductDetails;
